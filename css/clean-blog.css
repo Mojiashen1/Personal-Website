@@ -430,3 +430,11 @@ li {
   padding: 2px;
   line-height: 1.5;
 }
+
+.imgBlog3 {
+  width: 200px;
+  display: inline;
+}
+#momentum {
+  height: 200px;
+}
